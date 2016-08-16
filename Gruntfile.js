@@ -35,9 +35,9 @@ module.exports = function (grunt)
         'gh-pages': {
             options: {
                 base: 'dist',
-                repo: 'git@github.com:erasche/pluginapp.git',
-                origin: 'git@github.com:erasche/pluginapp.git',
-                remoteUrl: 'git@github.com:erasche/pluginapp.git'
+                repo: 'git@github.com:nathandunn/pluginapp.git',
+                origin: 'git@github.com:nathandunn/pluginapp.git',
+                remoteUrl: 'git@github.com:nathandunn/pluginapp.git'
             },
             src: ['**']
         },
