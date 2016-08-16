@@ -80,9 +80,9 @@
   name: FeatureSequence
 - author: Nathan Dunn
   description: |
-    [A collaborative Genome annotation editor](http://genomearchitect.github.io/) with a Java Server backend and a Javascript client that runs in a web browser as a JBrowse plugin.
+    A collaborative Genome annotation editor with a Java Server backend and a Javascript client that runs in a web browser as a JBrowse plugin.
   gmodProject: JBrowse
-  location: https://github.com/GMOD/Apollo
+  location: https://github.com/GMOD/Apollo http://genomearchitect.github.io/
   name: Apollo
 - author: Colin Diesh
   description: |
